@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"os"
+	"github.com/mykolasvitkus/cloud-lab/internal/hashes"
 )
 
 func Sha256Handler(w http.ResponseWriter, r *http.Request) {
