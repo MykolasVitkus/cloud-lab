@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tcentric/cloud-lab/cmd"
+	"github.com/mykolasvitkus/cloud-lab/cmd"
 )
 
 func main() {
